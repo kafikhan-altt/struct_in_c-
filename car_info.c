@@ -35,7 +35,7 @@ int main(){
 
     printf("the car %d has milage %d \n", i+1, c[i].car_milage);
 
-    printf("the car %d has milage %d \n", i+1, c[i].seating_cap);
+    printf("th car %d has milage %d \n", i+1, c[i].seating_cap);
 
     } 
    
